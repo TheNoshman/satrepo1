@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 some more changes forth text
+=======
+forth text
+
+NEW BRANCH EDITS
+>>>>>>> 6d1a11cb1143cd28e5bf789e15014e91ae8a4bf0
